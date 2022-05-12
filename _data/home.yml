@@ -10,11 +10,11 @@ navbar_entries:
 
 project_entries:
   - title: go
-    url: overview-post
+    url: blog
     desc: This is an example project, configured in _data/home.yml
 
   - title: linux
-    url: overview-post
+    url: blog
     desc: Projects are shown in card layout
 
   - title: Project 3
