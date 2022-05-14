@@ -3,7 +3,7 @@ navbar_entries:
     url: about
 
   - title: blog
-    url: layouts/blog
+    url: blog.html
 
   - title: website
     url: https://www.abhinav.co
